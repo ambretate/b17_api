@@ -1,0 +1,20 @@
+[
+  {
+    "groupName": "91st Bombardment Group (Heavy)",
+    "bombSquadron": [
+      "322nd Bomb Squadron",
+      "323rd Bomb Squadron",
+      "324th Bomb Squadron",
+      "401st Bomb Squadron"
+    ]
+  },
+  {
+    "groupName": "100th Bombardment Group (Heavy)",
+    "bombSquadron": [
+      "349th Bomb Squadron",
+      "350th Bomb Squadron",
+      "351st Bomb Squadron",
+      "418th Bomb Squadron"
+    ]
+  }
+]
