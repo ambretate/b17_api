@@ -10,7 +10,7 @@ router.get("/", (request, response) =>
 );
 
 router.use("/b17s", b17Routes);
-router.use("bomb_groups", groupRoutes);
-router.use("bomb_squadrons", squadronRoutes);
+router.use("/bomb_groups", groupRoutes);
+router.use("/bomb_squadrons", squadronRoutes);
 
 export default router;
