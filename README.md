@@ -116,5 +116,5 @@ To install the B17 API:
  - [B-17 Bomber Flying Fortress – The Queen Of The Skies](https://b17flyingfortress.de/en/)
  - [Wikipedia: Boeing B-17 Flying Fortress](https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress)
  - [Google Sheets Tip: Generate JSON Data from Rows and Columns](https://www.highviewapps.com/blog/google-sheets-tip-generate-json-data-from-rows-and-columns/)
- - [Apple TV: Masters of the Air](https://tv.apple.com/us/episode/part-one/umc.cmc.6q0caesashz5rgmrv4n51qmb7?action=playSmartEpisode)
+ - [Watch Masters of the Air on Apple TV+](https://tv.apple.com/us/episode/part-one/umc.cmc.6q0caesashz5rgmrv4n51qmb7?action=playSmartEpisode)
 
