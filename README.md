@@ -1,7 +1,9 @@
 
 # B17 API
 
-Welcome to the B17 API! Inspired by the show Masters of the Air, this API provides information about the heavy bomber aircraft that played a pivotal role in WWII and beyond. 
+<img src="https://www.flyaoamedia.com/wp-content/uploads/2009/12/B-17F_388bg008.jpg" />
+
+**Welcome to the B17 API!** Inspired by the show Masters of the Air, this API provides information about the heavy bomber aircraft that played a pivotal role in WWII and beyond. 
 
 During the B17's 9 year production span, 12,731 units were built. In this API's inception period, it will focus on a small subset of the planes used by the groups featured in the show, the 100th Heavy Bomber Group ("the Bloody 100th") and the 91st Heavy Bomber Group.
 
@@ -114,4 +116,5 @@ To install the B17 API:
  - [B-17 Bomber Flying Fortress – The Queen Of The Skies](https://b17flyingfortress.de/en/)
  - [Wikipedia: Boeing B-17 Flying Fortress](https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress)
  - [Google Sheets Tip: Generate JSON Data from Rows and Columns](https://www.highviewapps.com/blog/google-sheets-tip-generate-json-data-from-rows-and-columns/)
+ - [Apple TV: Masters of the Air](https://tv.apple.com/us/episode/part-one/umc.cmc.6q0caesashz5rgmrv4n51qmb7?action=playSmartEpisode)
 
