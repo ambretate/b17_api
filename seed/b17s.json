@@ -1,0 +1,99 @@
+[
+  {
+    "serialNumber": "42-102649",
+    "name": "Lady Geraldine",
+    "productionBlock": {
+      "model": "B-17G-55-BO",
+      "serialNumberRange": "42-102544 to 42-102743"
+    },
+    "bombGroup": ["100th Bomb Group", "452nd Bomb Group", "482nd Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron", "418th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Returned to the USA",
+    "image": "https://b17flyingfortress.de/cms/wp-content/uploads/2017/09/42-102649-2.jpg"
+  },
+  {
+    "serialNumber": "42-102598",
+    "name": "Super Rabbit",
+    "productionBlock": {
+      "model": "B-17G-55-BO",
+      "serialNumberRange": "42-102544 to 42-102743"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["351st Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Landing accident"
+},
+{
+    "serialNumber": "42-102611",
+    "name": "Boss Lady",
+    "productionBlock": {
+      "model": "B-17G-55-BO",
+      "serialNumberRange": " 42-102544 to 42-102743"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Failed to return"
+  },
+  {
+    "serialNumber": "42-102416",
+    "name": "Lady Luck",
+    "productionBlock": {
+      "model": "B-17G-50-BO",
+      "serialNumberRange": "42-102379 to 42-102543"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire",
+    "image": "https://b17flyingfortress.de/en/b17/42-102416-lady-luck/42-102416-full/"
+  },
+  {
+    "serialNumber": "41-24431",
+    "name": "The Saint",
+    "productionBlock": {
+      "model": "B-17F-5-BO",
+      "serialNumberRange": "41-24390 to 41-24439"
+    },
+    "bombGroup": ["91st Bomb Group"],
+    "bombSquadron": ["401st Bomb Squadron"],
+    "manufacturer": "Boeing"
+  },
+  {
+    "serialNumber": "41-24432",
+    "name": "Danellen",
+    "productionBlock": {
+      "model": "B-17F-5-BO",
+      "serialNumberRange": "41-24390 to 41-24439"
+    },
+    "bombGroup": ["91st Bomb Group"],
+    "bombSquadron": ["324th Bomb Squadron", "401st Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "41-24399",
+    "name": "Man O’ War",
+    "productionBlock": {
+      "model": "B-17F-5-BO",
+      "serialNumberRange": "41-24390 to 41-24439"
+    },
+    "bombGroup": ["91st Bomb Group"],
+    "bombSquadron": ["323rd Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "41-24439",
+    "name": "Chief Sly",
+    "productionBlock": {
+      "model": "B-17F-5-BO",
+      "serialNumberRange": "41-24390 to 41-24439"
+    },
+    "bombGroup": ["91st Bomb Group"],
+    "bombSquadron": ["322nd Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Battle damaged"
+  }
+]
