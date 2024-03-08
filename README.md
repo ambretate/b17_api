@@ -97,7 +97,7 @@ To install the B17 API:
 | :-------- | :------- | :-------------------------------- |
 | `GET`      | Get all Bomb Squadrons | /api/bomb_squadrons  |
 | `GET` | Get one Bomb Squadron by ID | /api/bomb_squadrons/:id |
-| `POST` | Create a new Bomb Squadron  | /api/bbomb_squadrons |
+| `POST` | Create a new Bomb Squadron  | /api/bomb_squadrons |
 | `PUT` | Update a Bomb Squadron by ID | /api/bomb_squadrons/:id |
 | `DELETE` | Delete a Bomb Squadron by ID | /api/bomb_squadronss/:id  |
 
