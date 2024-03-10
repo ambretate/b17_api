@@ -95,5 +95,432 @@
     "bombSquadron": ["322nd Bomb Squadron"],
     "manufacturer": "Boeing",
     "fate": "Battle damaged"
+  },
+  {
+    "serialNumber": "42-102528",
+    "name": "Times A Wastin’",
+    "productionBlock": {
+      "model": "B-17G-50-BO",
+      "serialNumberRange": "42-102379 to 42-102543"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-102621",
+    "name": "Varga Venus",
+    "productionBlock": {
+      "model": "B-17G-55-BO",
+      "serialNumberRange": "42-102544 to 42-102743"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron", "350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Battle damaged"
+  },
+  {
+    "serialNumber": "42-102624",
+    "productionBlock": {
+      "model": "B-17G-55-BO",
+      "serialNumberRange": "42-102544 to 42-102743"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-102635",
+    "productionBlock": {
+      "model": "B-17G-55-BO",
+      "serialNumberRange": "42-102544 to 42-102743"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-102648",
+    "name": "BTO of ETO",
+    "productionBlock": {
+      "model": "B-17G-55-BO",
+      "serialNumberRange": "42-102544 to 42-102743"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-102977",
+    "name": "Traps",
+    "productionBlock": {
+      "model": "B-17G-60-BO",
+      "serialNumberRange": "42-102744 to 42-102978"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Crashed on take off"
+  },
+  {
+    "serialNumber": "42-107056",
+    "name": "The Denver Doll",
+    "productionBlock": {
+      "model": "B-17G-35-DL",
+      "serialNumberRange": "42-106984 to 42-107233"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Douglas",
+    "fate": "Lost by flak/aa-fire"
+  },
+  {
+    "serialNumber": "42-107095",
+    "name": "Little Bit",
+    "productionBlock": {
+      "model": "B-17G-35-DL",
+      "serialNumberRange": "42-106984 to 42-107233"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Douglas",
+    "fate": "Mid-air collision"
+  },
+  {
+    "serialNumber": "42-107137",
+    "productionBlock": {
+      "model": "B-17G-35-DL",
+      "serialNumberRange": "42-106984 to 42-107233"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Douglas",
+    "fate": "Lost by flak/aa-fireinterned"
+  },
+  {
+    "serialNumber": "42-107211",
+    "name": "Liberty Belle",
+    "productionBlock": {
+      "model": "B-17G-35-DL",
+      "serialNumberRange": "42-106984 to 42-107233"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Douglas",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-107230",
+    "name": "Yehudi",
+    "productionBlock": {
+      "model": "B-17G-35-DL",
+      "serialNumberRange": "42-106984 to 42-107233"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Douglas",
+    "fate": "Battle damaged"
+  },
+  {
+    "serialNumber": "42-29986",
+    "productionBlock": {
+      "model": "B-17F-80-BO",
+      "serialNumberRange": "42-29932 to 42-30031"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Failed to return"
+  },
+  {
+    "serialNumber": "42-30002",
+    "name": "Damifino aka The WAAC Hunter",
+    "productionBlock": {
+      "model": "B-17F-80-BO",
+      "serialNumberRange": "42-29932 to 42-30031"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-30023",
+    "productionBlock": {
+      "model": "B-17F-80-BO",
+      "serialNumberRange": "42-29932 to 42-30031"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire"
+  },
+  {
+    "serialNumber": "42-30035",
+    "name": "Torchy aka Pasadena",
+    "productionBlock": {
+      "model": "B-17F-85-BO",
+      "serialNumberRange": "42-30032 to 42-30131"
+    },
+    "bombGroup": ["100th Bomb Group", "94th Bomb Group"],
+    "bombSquadron": ["333rd Bomb Squadron", "349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Mid-air collision"
+  },
+  {
+    "serialNumber": "42-30038",
+    "name": "Bar Fly",
+    "productionBlock": {
+      "model": "B-17F-85-BO",
+      "serialNumberRange": "42-30032 to 42-30131"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-30042",
+    "name": "Shack Rabbits aka Oh Nausea",
+    "productionBlock": {
+      "model": "B-17F-85-BO",
+      "serialNumberRange": "42-30032 to 42-30131"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft",
+    "image": "https://b17flyingfortress.de/cms/wp-content/uploads/2017/05/42-30042.jpg"
+  },
+  {
+    "serialNumber": "42-30088",
+    "name": "Squawkin Hawk II",
+    "productionBlock": {
+      "model": "B-17F-85-BO",
+      "serialNumberRange": "42-30032 to 42-30131"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["349th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Returned to the USA",
+    "image": "https://b17flyingfortress.de/cms/wp-content/uploads/2017/09/42-30088-1200px.jpg"
+  },
+  {
+    "serialNumber": "42-30154",
+    "name": "War Eagle",
+    "productionBlock": {
+      "model": "B-17F-90-BO",
+      "serialNumberRange": "42-30132 to 42-30231"
+    },
+    "bombGroup": ["100th Bomb Group", "92nd Bomb Group", "95th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron", "334th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-102657",
+    "name": "Boss Lady",
+    "productionBlock": {
+      "model": "B-17G-55-BO",
+      "serialNumberRange": "42-102544 to 42-102743"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "442-102695",
+    "productionBlock": {
+      "model": "B-17G-55-BO",
+      "serialNumberRange": "42-102544 to 42-102743"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-102934",
+    "name": "Got To Do It",
+    "productionBlock": {
+      "model": "B-17G-60-BO",
+      "serialNumberRange": "42-102744 to 42-102978"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Out of gas"
+  },
+  {
+    "serialNumber": "42-102958",
+    "productionBlock": {
+      "model": "B-17G-60-BO",
+      "serialNumberRange": "42-102744 to 42-102978"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire"
+  },
+  {
+    "serialNumber": "42-107024",
+    "productionBlock": {
+      "model": "B-17G-35-DL",
+      "serialNumberRange": "42-106984 to 42-107233"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Douglas",
+    "fate": "Lost by flak/aa-fire"
+  },
+  {
+    "serialNumber": "42-29738",
+    "name": "Upstairs Maid",
+    "productionBlock": {
+      "model": "B-17F-70-BO",
+      "serialNumberRange": "42-29732 to 42-29831"
+    },
+    "bombGroup": ["100th Bomb Group", "303rd Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron", "360th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft ditched"
+  },
+  {
+    "serialNumber": "42-30047",
+    "name": "Sweeter Girl",
+    "productionBlock": {
+      "model": "B-17F-85-BO",
+      "serialNumberRange": "42-30032 to 42-30131"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-30050",
+    "name": "Judy E.",
+    "productionBlock": {
+      "model": "B-17F-85-BO",
+      "serialNumberRange": "42-30032 to 42-30131"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire"
+  },
+  {
+    "serialNumber": "42-30068",
+    "name": "Phartzac",
+    "productionBlock": {
+      "model": "B-17F-85-BO",
+      "serialNumberRange": "42-30032 to 42-30131"
+    },
+    "bombGroup": ["100th Bomb Group", "388th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron", "561st Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire"
+  },
+  {
+    "serialNumber": "42-30070",
+    "name": "Tweedle-O-Twill",
+    "productionBlock": {
+      "model": "B-17F-85-BO",
+      "serialNumberRange": "42-30032 to 42-30131"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire"
+  },
+  {
+    "serialNumber": "42-30311",
+    "productionBlock": {
+      "model": "B-17F-95-BO",
+      "serialNumberRange": "42-30232 to 42-30331"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft",
+    "image": "https://b17flyingfortress.de/cms/wp-content/uploads/2017/05/42-30311.jpg"
+  },
+  {
+    "serialNumber": "42-30335",
+    "name": "Sans Finis",
+    "productionBlock": {
+      "model": "B-17F-100-BO",
+      "serialNumberRange": "42-30332 to 42-30431"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire",
+    "image": "https://b17flyingfortress.de/cms/wp-content/uploads/2018/01/42-30335.jpg"
+  },
+  {
+    "serialNumber": "42-30358",
+    "name": "Phartzac",
+    "productionBlock": {
+      "model": "B-17F-100-BO",
+      "serialNumberRange": "42-30332 to 42-30431"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire"
+  },
+  {
+    "serialNumber": "42-30380",
+    "productionBlock": {
+      "model": "B-17F-100-BO",
+      "serialNumberRange": "42-30332 to 42-30431"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Returned to the USA"
+  },
+  {
+    "serialNumber": "42-30604",
+    "name": "Badger’s Beauty V",
+    "productionBlock": {
+      "model": "B-17F-110-BO",
+      "serialNumberRange": "42-30532 to 42-30616"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire",
+    "image": "https://b17flyingfortress.de/cms/wp-content/uploads/2017/04/42-30604.jpg"
+  },
+  {
+    "serialNumber": "42-30725",
+    "name": "Aw-r-go",
+    "productionBlock": {
+      "model": "B-17F-115-BO",
+      "serialNumberRange": "42-30617 to 42-30731"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by enemy aircraft"
+  },
+  {
+    "serialNumber": "42-30788",
+    "name": "Mismalovin’",
+    "productionBlock": {
+      "model": "B-17F-120-BO",
+      "serialNumberRange": "42-30732 to 42-30831"
+    },
+    "bombGroup": ["100th Bomb Group"],
+    "bombSquadron": ["350th Bomb Squadron"],
+    "manufacturer": "Boeing",
+    "fate": "Lost by flak/aa-fire"
   }
 ]
